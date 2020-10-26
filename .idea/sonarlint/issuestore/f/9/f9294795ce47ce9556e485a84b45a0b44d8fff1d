@@ -1,0 +1,14 @@
+
+r
+java:S1192]"PDefine a constant instead of duplicating this literal "\n Items cost: " 4 times.(¬ÉŞÿÿÿÿÿ8îÓò×Õ.
+
+java:S1192#"lDefine a constant instead of duplicating this literal "Incorrect status after purchase. Expected: " 4 times.(úßËµøÿÿÿÿ8 ñÒÕ.
+|
+java:S1192]"ZDefine a constant instead of duplicating this literal "\n User current balance: " 4 times.(¬ÉŞÿÿÿÿÿ8îÓò×Õ.
+œ
+java:S1192n"Define a constant instead of duplicating this literal "User balance should not be decreased \n Initial user balance: " 3 times.(¢¡ï´8Š©ƒØÕ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÊ˜£
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ê‘Æ¸
+m
+java:S1192#"KDefine a constant instead of duplicating this literal ", actual: " 4 times.(úßËµøÿÿÿÿ8 ñÒÕ.
